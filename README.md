@@ -11,3 +11,19 @@ API used: MyAnimeList API ([MyAnimeList.net](https://myanimelist.net/))
 ## Cultivation Novels
 This dataset contains: title,type,language,year,status,num_chapters,completely_translated,original_publisher,release_frequency,authors,genres,tags,rating,vote_count,reading_list_count,reading_list_monthly_rank,reading_list_alltime_rank,activity_weekly_rank,activity_monthly_rank,activity_alltime_rank,description,url,cover_image_url
 [NovelUpdates.com](https://www.novelupdates.com/)
+
+##Libraries used:
+Beautiful Soup
+NoDriver
+CVS
+Asyncio
+OS
+SYS
+Random
+RE
+Json
+urllib
+Time
+Logging
+Datetime
+Path
